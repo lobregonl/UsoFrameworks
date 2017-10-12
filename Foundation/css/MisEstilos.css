@@ -1,0 +1,87 @@
+.gastronomia-body{
+	background: url(../img/fondo.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+
+.contenedor{
+	background-color: rgba(96, 125, 139, 0.85);
+	
+}
+
+.barralateral{
+	background-color: rgba(224, 242, 241, 0.9);
+}
+
+.callout{
+	background-color: #e0f2f1 !important;
+}
+
+.calloutNoBorder{
+	border: 0px;
+}
+
+.texto-color{
+	background-color: rgba(240, 98, 146, 0.6);
+	border-color: #f50057; 
+}
+
+.spanBuscar{
+	background-color: #e91e63 !important;
+	color: white !important;
+	border-color: #f50057;
+	border-radius: 0px 3px 3px 0px;
+}
+
+.botonesEnlace{
+	border-color: #f50057 !important;
+	color: #f50057 !important;
+}
+
+.hrFavoritos{
+	border-color: #e91e63;
+}
+
+.hrHistorial{
+	border-color: #e91e63;
+}
+
+.hrContenido{
+	border-color: white;
+}
+
+h1, h4{
+	color: white;
+}
+
+h5, h6{
+	color: #f50057;
+}
+
+.botonesHistorial{
+	border-color: transparent !important;
+	color: #f50057 !important;
+	text-align: left;	
+}
+
+.contenidoPrincipal{
+	background-color: #f8bbd0 !important;
+}
+
+.publicar{
+	background-color: #e91e63 !important;
+	color: white !important;
+	border-color: #f50057 !important;
+	border-radius: 3px;
+}
+
+.linea-vertical{
+	border-right: 1px solid white;
+}
+
+

@@ -1,0 +1,46 @@
+.logo_img {
+  width: 80px;
+}
+
+
+.divredes{
+	height: 80px;
+	display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+}
+
+.img-redsocial{
+	width: 30px;
+}
+
+.navbar{
+	border-radius: 0px;
+}
+
+
+.nav-link-menu{
+	color: black;
+	font-size: 1.8rem;
+	font-weight: bold;
+}
+
+.icono-persona{
+	width: 80px;
+}
+
+.img-cantante{  
+  padding: 10px;
+  margin: 10px;
+}
+
+span.usuario{
+	font-size: 4.5em;
+	background-color: transparent;
+}
+
+.divcomentarios{
+	margin-bottom: 10px;
+}
+
+

@@ -1,0 +1,36 @@
+body{
+	height: 100px;
+	background: url(../img/fondoCab.jpg) center top no-repeat,
+				url(../img/fondoCuerpo.jpg) center bottom no-repeat;
+				background-size: 100% 150px, 100% 100%;
+				background-attachment: fixed;
+}
+
+.img-logo{
+	width: 100%;
+}
+
+.btn-menu{
+	vertical-align: middle;
+	padding: 2px 10px;
+	font-size: 0.9em;
+	margin-bottom: 20px;
+}
+
+.acuario{
+	width: 100%;
+	margin-right: 15px;
+	margin-bottom: 10px;
+}
+
+.parrafo{
+	margin-bottom: 15px !important;
+}
+
+.autor{
+	width: 50% !important;
+}
+
+.perfil-autor{
+	font-size: 0.8em;
+}
